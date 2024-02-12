@@ -5,7 +5,7 @@ __This project working  with The Cat API__<br>
 *I you chose the breed you can dispaly all the information about that breed*<br>
 I used this website to help me<br>
 *w3school.com*<br>
-__In fututre I will update it to be more cretive__<br>
+__In fututre I will update it to be more creative__<br>
 
 
 
